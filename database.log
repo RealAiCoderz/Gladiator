@@ -1,0 +1,73 @@
+2024-02-29 16:39:34,964 kt6269 209c95af-9f5e-49f3-8ea1-8c148f3b12ae Error occurred: no such table: metaverse
+2024-02-29 16:45:41,376 kt6269 99fdab96-6664-4070-956e-b1bd9548b932 Data inserted: IronMan
+2024-02-29 16:52:01,674 kt6269 435334b0-4b99-454b-9f94-a8b7d91118dc Error occurred: UNIQUE constraint failed: metaverse.name, metaverse.universe
+2024-02-29 21:20:12,370 ps1562 552fc7f2-f25e-475c-959a-c105e648da95 Data fetched: IronMan Marvel
+2024-02-29 21:25:02,087 kt6269 d5363275-8e65-4ac6-a3ee-0c1e8620d5d2 Data not found: Karanthacker 
+2024-02-29 21:25:19,840 kt6269 d5363275-8e65-4ac6-a3ee-0c1e8620d5d2 Data fetched: IronMan Marvel
+2024-02-29 21:38:07,683 kt6269 c013306c-d31c-414b-b78a-51b239c61e36 Data fetched: IronMan Marvel
+2024-02-29 21:38:35,581 kt6269 c013306c-d31c-414b-b78a-51b239c61e36 Error occurred: UNIQUE constraint failed: metaverse.name, metaverse.universe
+2024-02-29 22:49:22,733 kt6269 05fa5632-dd8f-449a-aec4-e0605473e8c5 Data fetched: IronMan 
+2024-02-29 22:49:37,075 kt6269 05fa5632-dd8f-449a-aec4-e0605473e8c5 Error occurred: UNIQUE constraint failed: metaverse.name, metaverse.universe
+2024-02-29 23:20:03,373 kt6269 d4ff83ee-eb6d-4d02-ba2d-b7dd15edeaf6 Data fetched: IronMan 
+2024-02-29 23:22:36,858 kt6269 34db54d7-1baf-4fff-baea-358e8e0b0f71 Data fetched: IronMan Marvel
+2024-02-29 23:24:47,607 kt6269 1df4a821-49b4-45e6-9569-ba3ee84efbc4 Data fetched: IronMan Marvel
+2024-02-29 23:24:55,548 kt6269 1df4a821-49b4-45e6-9569-ba3ee84efbc4 Error occurred: 'Superhero' object is not subscriptable
+2024-02-29 23:29:14,092 kt6269 c8e74293-0336-4a36-b514-af82b0c74feb Data fetched: IronMan Marvel
+2024-02-29 23:29:22,088 kt6269 c8e74293-0336-4a36-b514-af82b0c74feb Error occurred: Incorrect number of bindings supplied. The current statement uses 7, and there are 6 supplied.
+2024-02-29 23:31:33,301 kt6269 67c8f913-717b-4cca-9968-c42ef4d64be5 Data fetched: IronMan Marvel
+2024-02-29 23:31:39,624 kt6269 67c8f913-717b-4cca-9968-c42ef4d64be5 Error occurred: Incorrect number of bindings supplied. The current statement uses 7, and there are 6 supplied.
+2024-02-29 23:32:49,489 kt6269 67c8f913-717b-4cca-9968-c42ef4d64be5 Data not found: Iron eedfe
+2024-02-29 23:33:24,669 kt6269 b4d3eb46-ac33-4747-8e6e-c595f6d2a63f Data fetched: IronMan Marvel
+2024-02-29 23:34:36,853 kt6269 17eb214f-bcbb-45bb-a92d-bd70b8b5f3c1 Data not found: Iron sdfs
+2024-02-29 23:34:56,958 kt6269 17eb214f-bcbb-45bb-a92d-bd70b8b5f3c1 Data fetched: IronMan Marvel
+2024-02-29 23:35:03,114 kt6269 17eb214f-bcbb-45bb-a92d-bd70b8b5f3c1 Data updated: IronMan Marvel
+2024-03-01 00:10:16,236 kt6269 17f48853-5bf6-4d36-be0c-fc8d85dbac84 Data fetched: IronMan 
+2024-03-01 00:10:16,239 kt6269 17f48853-5bf6-4d36-be0c-fc8d85dbac84 Data deleted: IronMan Marvel
+2024-03-01 00:10:30,741 kt6269 17f48853-5bf6-4d36-be0c-fc8d85dbac84 Data not found: IronMan Marvel
+2024-03-01 00:22:39,982 vishal96 7a4918a6-c7a6-493c-9b44-1ae9bde0c5a4 Data inserted: shaktiman desiclan
+2024-03-01 00:23:04,956 vishal96 7a4918a6-c7a6-493c-9b44-1ae9bde0c5a4 Data fetched: shaktiman desiclan
+2024-03-01 00:23:47,456 vishal96 7a4918a6-c7a6-493c-9b44-1ae9bde0c5a4 Data fetched: shaktiman 
+2024-03-01 00:24:16,161 vishal96 7a4918a6-c7a6-493c-9b44-1ae9bde0c5a4 Data updated: shaktiman desiclan
+2024-03-01 00:32:29,691 psgamer01 2cdd6745-6e57-4bd7-bbd9-07ff15383d42 Data inserted: kingkongkaran ufc
+2024-03-01 00:33:07,208 psgamer01 2cdd6745-6e57-4bd7-bbd9-07ff15383d42 Data not found: ironman marvel
+2024-03-01 00:33:32,607 psgamer01 2cdd6745-6e57-4bd7-bbd9-07ff15383d42 Data fetched: kingkongkaran ufc
+2024-03-01 00:33:49,003 psgamer01 2cdd6745-6e57-4bd7-bbd9-07ff15383d42 Data updated: kingkongkaran ufc
+2024-03-01 00:34:21,491 psgamer01 2cdd6745-6e57-4bd7-bbd9-07ff15383d42 Data fetched: kingkongkaran ufc
+2024-03-01 00:34:21,495 psgamer01 2cdd6745-6e57-4bd7-bbd9-07ff15383d42 Data deleted: kingkongkaran ufc
+2024-03-01 00:34:53,326 psgamer01 2cdd6745-6e57-4bd7-bbd9-07ff15383d42 Data not found: kingkongkaran 
+2024-03-01 12:03:13,913 kt6269 00d1e690-398e-40b3-96e0-379e762697a3 Statistics calculated:              weight        height  games_played
+count  1.000000e+00  1.000000e+00           1.0
+mean   9.777889e+14  8.500000e+26      111123.0
+std             NaN           NaN           NaN
+min    9.777889e+14  8.500000e+26      111123.0
+25%    9.777889e+14  8.500000e+26      111123.0
+50%    9.777889e+14  8.500000e+26      111123.0
+75%    9.777889e+14  8.500000e+26      111123.0
+max    9.777889e+14  8.500000e+26      111123.0
+2024-03-01 12:03:21,529 kt6269 00d1e690-398e-40b3-96e0-379e762697a3 Statistics calculated:              weight        height  games_played
+count  1.000000e+00  1.000000e+00           1.0
+mean   9.777889e+14  8.500000e+26      111123.0
+std             NaN           NaN           NaN
+min    9.777889e+14  8.500000e+26      111123.0
+25%    9.777889e+14  8.500000e+26      111123.0
+50%    9.777889e+14  8.500000e+26      111123.0
+75%    9.777889e+14  8.500000e+26      111123.0
+max    9.777889e+14  8.500000e+26      111123.0
+2024-03-01 12:03:23,663 kt6269 00d1e690-398e-40b3-96e0-379e762697a3 Statistics calculated:              weight        height  games_played
+count  1.000000e+00  1.000000e+00           1.0
+mean   9.777889e+14  8.500000e+26      111123.0
+std             NaN           NaN           NaN
+min    9.777889e+14  8.500000e+26      111123.0
+25%    9.777889e+14  8.500000e+26      111123.0
+50%    9.777889e+14  8.500000e+26      111123.0
+75%    9.777889e+14  8.500000e+26      111123.0
+max    9.777889e+14  8.500000e+26      111123.0
+2024-03-01 12:03:26,614 kt6269 00d1e690-398e-40b3-96e0-379e762697a3 Statistics calculated:              weight        height  games_played
+count  1.000000e+00  1.000000e+00           1.0
+mean   9.777889e+14  8.500000e+26      111123.0
+std             NaN           NaN           NaN
+min    9.777889e+14  8.500000e+26      111123.0
+25%    9.777889e+14  8.500000e+26      111123.0
+50%    9.777889e+14  8.500000e+26      111123.0
+75%    9.777889e+14  8.500000e+26      111123.0
+max    9.777889e+14  8.500000e+26      111123.0
