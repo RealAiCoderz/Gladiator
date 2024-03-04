@@ -1,0 +1,3 @@
+- This folder contains different python files based on Model, Controller and View (MCV) concept to have the code seperation.
+- It also has a file i.e., connectiontomysql.py file where it connects to mysql saves the entries made in .py file. The file has been tracked using databasemain.log file.
+- It also contains test_teammember.py file to test few entries made in the main code.
