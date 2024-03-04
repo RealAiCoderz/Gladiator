@@ -1,0 +1,47 @@
+# Teams Entry:
+Enter Marvel team member name: captainamerica
+Enter height (175 to 205 cm): 184
+Enter weight (75 to 140 kg): 85
+Enter games played: 205
+
+Enter Marvel team member name: spiderman
+Enter height (175 to 205 cm): 175
+Enter weight (75 to 140 kg): 75
+Enter games played: 45
+
+Enter Marvel team member name: hulk
+Enter height (175 to 205 cm): 179
+Enter weight (75 to 140 kg): 135
+Enter games played: 210
+
+Enter DC team member name: henery
+Enter height (175 to 205 cm): 176
+Enter weight (75 to 140 kg): 87
+Enter games played: 125
+
+Enter DC team member name: batsman
+Enter height (175 to 205 cm): 180
+Enter weight (75 to 140 kg): 85
+Enter games played: 125
+
+Enter DC team member name: superman
+Enter height (175 to 205 cm): 189
+Enter weight (75 to 140 kg): 95
+Enter games played: 305
+
+Questions
+Probability of selecting 2 from Marvel and 3 from DC teams: 0.3333333333333333  
+Stars heavier than SpiderMan and taller than Henery: ['captainamerica', 'hulk', 'batsman', 'superman']
+Stars who have played more than 100 games and are heavier than Captain America: ['hulk', 'henery', 'superman']
+Stars for the metaverse with stats summation greater than 350 units: ['captainamerica', 'hulk', 'henery', 'batsman', 'superman']
+
+Mean Height: 180.5, Median Height: 179.5
+Mean Weight: 93.66666666666667, Median Weight: 86.0
+Mean Games Played: 169.16666666666666, Median Games Played: 165.0
+
+Deviation of Heights: [3.5, -5.5, -1.5, -4.5, -0.5, 8.5]
+Deviation of Weights: [-8.666666666666671, -18.66666666666667, 41.33333333333333, -6.666666666666671, -8.666666666666671, 1.3333333333333286]
+Standard Deviation of Heights: 4.7871355387816905
+Standard Deviation of Weights: 19.379255804998177
+
+Linear Regression Model: y = 2.0207100591715967 * x + -20.106508875739593
