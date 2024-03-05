@@ -1,0 +1,40 @@
+Iron Man, 185, 85, 140, Marvel
+Spider-Man, 175, 70, 100, Marvel
+Hulk, 200, 140, 60, Marvel
+Captain America, 188, 95, 140, Marvel
+Falcon, 182, 80, 40, Marvel
+War Machine, 190, 100, 50, Marvel
+Black Widow, 170, 60, 100, Marvel
+Hawkeye, 180, 75, 100, Marvel
+Thor, 205, 130, 140, Marvel
+Loki, 185, 80, 80, Marvel
+Valkyrie, 190, 75, 60, Marvel
+Star-Lord, 183, 78, 100, Marvel
+Gamora, 175, 65, 60, Marvel
+Rocket Raccoon, 80, 8, 120, Marvel
+Nebula, 180, 70, 40, Marvel
+Drax, 195, 110, 20, Marvel
+Groot, 200, 40, 10, Marvel
+Mantis, 170, 55, 10, Marvel
+Doctor Strange, 180, 75, 120, Marvel
+Scarlet Witch, 175, 65, 120, Marvel
+Ant-Man, 0, 0, 60, DC
+Wasp, 5, 1, 30, DC
+Black Panther, 185, 90, 110, DC
+Henery, 180, 80, 100, DC
+Vision, 190, 100, 100, DC
+Scarlet Spider, 180, 80, 30, DC
+Jessica Jones, 180, 70, 80, DC
+Luke Cage, 190, 110, 80, DC
+Iron Fist, 180, 75, 60, DC
+Daredevil, 180, 80, 140, DC
+The Punisher, 185, 90, 130, DC
+Spider-Woman, 180, 70, 40, DC
+Captain Marvel, 180, 75, 140, DC
+Ironheart, 175, 65, 30, DC
+Shazam, 185, 85, 40, DC
+Wonder Woman, 180, 75, 160, DC
+Aquaman, 190, 100, 120, DC
+Superman, 190, 100, 180, DC
+Batman, 190, 80, 180, DC
+Green Lantern, 170, 75, 190, DC
