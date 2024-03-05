@@ -4,8 +4,10 @@ import custom_exceptions
 import model
 from connection import Connection
 from db_operations import DatabaseOperations as db
-from view import disp
+from view import View
 import level_1_questions as level1
+
+log = logger.Logger()
 
 #get character information from 'char_data.txt' into instances of Star
 with open("char_data.txt", 'r', encoding='utf-8') as file:  
@@ -21,13 +23,13 @@ with open("char_data.txt", 'r', encoding='utf-8') as file:
             try:
                 raise custom_exceptions.HeightError
             except custom_exceptions.HeightError as e:
-                logger.make_entry("HeightError (given {} for {})".format(details[1], details[0]))
+                log.make_entry("HeightError (given {} for {})".format(details[1], details[0]))
         
         if not (75<= details[2] <=140):
             try:
                 raise custom_exceptions.WeightError
             except custom_exceptions.WeightError as e:
-                logger.make_entry("WeightError (given {} for {})".format(details[2], details[0]))
+                log.make_entry("WeightError (given {} for {})".format(details[2], details[0]))
         
         #One Star instance for each row
         star = model.Star()
@@ -53,10 +55,15 @@ conn, cursor = Connection().make_connection(db_name = "SuperHeroes")
 db().db_populate(conn, cursor)
 
 #-------Do level 1 questions-------
-level1.q1(disp(cursor, level1.q1_sql))
-level1.q2(disp(cursor, level1.q2_sql))
-level1.q3(disp(cursor, level1.q3_sql))
-level1.q4(disp(cursor, level1.q4_sql))
+'''
+1. pass cursor and sql query string to disp() of View class.
+2. will get database result in return.
+3. pass above result as input to q1/q2/etc. to make calculations and print answer.
+'''
+level1.q1(View().disp(cursor, level1.q1_sql))
+level1.q2(View().disp(cursor, level1.q2_sql))
+level1.q3(View().disp(cursor, level1.q3_sql))
+level1.q4(View().disp(cursor, level1.q4_sql))
 
 conn.close()
 
@@ -64,6 +71,6 @@ conn.close()
 try:
     print(a) # 'a' does not exist
 except NameError as e:
-    logger.make_entry(type(e).__name__)
+    log.make_entry(type(e).__name__)
 
 logger.f.close()

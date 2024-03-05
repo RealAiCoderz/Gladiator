@@ -1,6 +1,7 @@
+class View:
 
-def disp(cursor, SQL):
-    cursor.execute(SQL)
-    result = cursor.fetchall()
-    
-    return result
+    def disp(self, cursor, SQL):
+        cursor.execute(SQL)
+        result = cursor.fetchall()
+        
+        return result
