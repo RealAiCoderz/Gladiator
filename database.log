@@ -71,3 +71,10 @@ min    9.777889e+14  8.500000e+26      111123.0
 50%    9.777889e+14  8.500000e+26      111123.0
 75%    9.777889e+14  8.500000e+26      111123.0
 max    9.777889e+14  8.500000e+26      111123.0
+2024-03-04 08:56:16,102 kt6269 e6a95eb6-29d6-4ce6-9eda-ad41db5d085f Data inserted: IronMan Marvel
+2024-03-04 08:56:50,106 kt6269 e6a95eb6-29d6-4ce6-9eda-ad41db5d085f Data inserted: BatMan DC
+2024-03-04 09:14:12,143 kt6269 d7537d4b-8a49-4708-ad99-0c0c2fe75b0f Data fetched: shaktiman 
+2024-03-04 09:14:12,146 kt6269 d7537d4b-8a49-4708-ad99-0c0c2fe75b0f Data deleted: shaktiman desiclan
+2024-03-04 09:21:34,093 kt6269 d7537d4b-8a49-4708-ad99-0c0c2fe75b0f Data inserted: WonderWoman DC
+2024-03-04 09:22:35,804 kt6269 d7537d4b-8a49-4708-ad99-0c0c2fe75b0f Data fetched: WonderWoman 
+2024-03-04 09:28:02,493 kt6269 c9b29e36-8e4a-4c84-8a25-e3ac0795ebf2 Data not found: SpiderMan 
