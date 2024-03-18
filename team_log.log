@@ -1,0 +1,17 @@
+2024-03-04 13:53:28,208 - ERROR - Error adding member: 'str' object has no attribute 'Upper'
+2024-03-04 14:11:41,365 - ERROR - Error adding member: 'str' object has no attribute 'Upper'
+2024-03-04 14:13:13,881 - ERROR - Error adding member: name 'n' is not defined
+2024-03-04 14:14:30,109 - ERROR - Error adding member: 'str' object has no attribute 'Upper'
+2024-03-04 14:15:35,716 - ERROR - Error adding member: 'str' object has no attribute 'Upper'
+2024-03-04 14:16:47,151 - ERROR - Error adding member: 'str' object has no attribute 'Upper'
+2024-03-04 14:18:17,581 - ERROR - Error adding member: 'str' object has no attribute 'Upper'
+2024-03-04 16:46:48,725 - ERROR - Error adding member: database is locked
+2024-03-04 16:46:48,731 - ERROR - Error execuring Question 1: no such table: table1
+2024-03-04 16:47:20,818 - ERROR - Error adding member: database is locked
+2024-03-04 16:47:20,820 - ERROR - Error execuring Question 1: no such table: table1
+2024-03-04 16:53:41,082 - ERROR - Error execuring Question 1: no such table: table1
+2024-03-04 17:01:36,839 - ERROR - Error execuring Question 1: no such table: table1
+2024-03-04 17:14:22,667 - ERROR - Error execuring Question 1: no such table: table1
+2024-03-04 17:14:54,157 - ERROR - Error execuring Question 1: no such table: table1
+2024-03-04 17:14:58,364 - ERROR - Error execuring Question 1: no such table: table1
+2024-03-04 17:18:17,402 - ERROR - Error execuring Question 1: no such table: table1
